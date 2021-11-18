@@ -22,8 +22,8 @@ function grocery() {
       document.querySelector("table .table-hover").innerHTML = output;
       document.querySelector("div .heading").remove();
       document.querySelector("div .my").classList.remove("my");
-      document.querySelector("table thead").classList.add("table-warning");
-      document.querySelector("table .table-hover").classList.add("table-info");
+      document.querySelector("table thead").classList.add("table-primary");
+      document.querySelector("table .table-hover").classList.add("table-light");
     }
   };
 
