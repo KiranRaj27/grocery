@@ -1,0 +1,84 @@
+{
+  "groce": [
+    {
+      "serialnumber": "1",
+      "itemname": "Apple",
+      "quantity": "3kg",
+      "unit": "233",
+      "department": "Fruits",
+      "notes": "Kashmiri apple"
+    },
+    {
+      "serialnumber": "2",
+      "itemname": "Rice",
+      "quantity": "2kg",
+      "unit": "23",
+      "department": "Food",
+      "notes": "Andra"
+    },
+    {
+      "serialnumber": "3",
+      "itemname": "Orange",
+      "quantity": "3kg",
+      "unit": "43",
+      "department": "Fruits",
+      "notes": "Lucknow"
+    },
+    {
+      "serialnumber": "4",
+      "itemname": "Onion",
+      "quantity": "1kg",
+      "unit": "21",
+      "department": "Vegatable",
+      "notes": "Fresh"
+    },
+    {
+      "serialnumber": "5",
+      "itemname": "Chicken",
+      "quantity": "2kg",
+      "unit": "67",
+      "department": "Meats",
+      "notes": "Fresh"
+    },
+    {
+      "serialnumber": "6",
+      "itemname": "Tea Powder",
+      "quantity": "100g",
+      "unit": "233",
+      "department": "Tea and Cofee",
+      "notes": "Assam"
+    },
+    {
+      "serialnumber": "7",
+      "itemname": "Biriyani Rice",
+      "quantity": "10kg",
+      "unit": "57",
+      "department": "Rice",
+      "notes": "Basmathi"
+    },
+    {
+      "serialnumber": "8",
+      "itemname": "Carrot",
+      "quantity": "1kg",
+      "unit": "83",
+      "department": "Vegatable",
+      "notes": "Coorg"
+    },
+    {
+      "serialnumber": "9",
+      "itemname": "Soap",
+      "quantity": "1",
+      "unit": "233",
+      "department": "Kitchen",
+      "notes": "Kerala"
+    },
+    {
+      "serialnumber": "10",
+      "itemname": "Mango Pickle",
+      "quantity": "100g",
+      "unit": "23",
+      "department": "Pickle",
+      "notes": "Kerala"
+    }
+  ]
+}
