@@ -4,7 +4,6 @@ function grocery() {
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
       var response = JSON.parse(this.responseText);
-      // console.log(response);
       var groce = response.groce;
       console.log(groce);
       var output = "";
@@ -20,7 +19,7 @@ function grocery() {
       </tr>`;
       }
       document.querySelector("table .table-hover").innerHTML = output;
-      document.querySelector("div .heading").remove();
+      document.getElementById("heading").style.display = "none";
       document.querySelector("div .my").classList.remove("my");
       document.querySelector("table thead").classList.add("table-primary");
       document.querySelector("table .table-hover").classList.add("table-light");

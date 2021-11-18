@@ -19,7 +19,8 @@
         font-size: 4em;
       }
       .my {
-        visibility: hidden;
+        display: none;
+        /* visibility: hidden; */
       }
       body {
         background-image: -webkit-linear-gradient(
@@ -81,7 +82,7 @@
     </header>
     <main>
       <div class="container">
-        <div class="heading">
+        <div id="heading" class="heading">
           <h1>Welcome to Fresh Food 🛒</h1>
           <h1>We are happy to Help you...</h1><br><br>
           <button style="color: #fff; background-color: orange; width: 20%;" class="btn btn-outline-success" onclick="grocery()">
